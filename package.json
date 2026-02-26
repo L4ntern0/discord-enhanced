@@ -1,0 +1,11 @@
+{
+  "name": "@openclaw/discord-enhanced",
+  "version": "1.0.0",
+  "description": "OpenClaw Discord enhanced plugin - thread management tools",
+  "type": "module",
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "discord-enhanced",
+  "name": "Discord Enhanced",
+  "version": "1.0.0",
+  "description": "OpenClaw Discord enhanced plugin - thread management tools",
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "categories": ["channel", "discord", "management"],
+  "tags": ["discord", "thread", "moderation", "management"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L4ntern0/discord-enhanced"
+  },
+  "requirements": {
+    "openclaw": ">=2026.1.0"
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
