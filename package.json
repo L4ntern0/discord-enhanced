@@ -7,5 +7,11 @@
     "extensions": [
       "./index.ts"
     ]
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
   }
 }
